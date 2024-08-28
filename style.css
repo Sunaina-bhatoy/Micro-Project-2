@@ -273,7 +273,7 @@ nav {
 }
 @media(max-width:600px){
   .container3{
-    margin-inline:-70px;
+    margin-inline:-50px;
   }
   .info{
     height: 300px;
